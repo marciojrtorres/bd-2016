@@ -4,6 +4,7 @@ public class Telefone {
 
 	private String ddd;
 	private String numero;
+	
 	public String getDdd() {
 		return ddd;
 	}

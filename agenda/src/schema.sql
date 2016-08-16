@@ -1,3 +1,4 @@
+CREATE DATABASE agenda;
 -- palavras reservadas do banco sempre
 -- maiúsculo
 -- palavras do usuário em snake_case

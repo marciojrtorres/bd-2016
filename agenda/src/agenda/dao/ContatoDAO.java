@@ -159,6 +159,80 @@ con.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);
 		}
 	}
 	
+	public void selectTelefones(Contato contato) {
+		if (contato.getId() == null) {
+			throw new RuntimeException("O id eh nulo, nao pode carregar telefones");
+		}
+		try (Connection con = db.getConnection()) {
+			String sql = "SELECT ddd, numero "
+					   + "FROM telefones WHERE id_contato = ?";
+			PreparedStatement cmd = 
+						con.prepareStatement(sql);
+			
+			cmd.setInt(1, contato.getId());
+			
+			ResultSet rs = cmd.executeQuery();
+			
+			while (rs.next()) {
+				Telefone telefone = new Telefone();
+				telefone.setDdd(rs.getString("ddd"));
+				telefone.setNumero(rs.getString("numero"));
+				contato.addTelefone(telefone);
+			}
+						
+		} catch (Exception e) {
+			throw new RuntimeException(e);
+		}
+	}
+
+	public boolean delete(Contato c) {
+		if (c.getId() == null) {
+			throw new RuntimeException("O id eh nulo, nao pode ser excluido");
+		}
+		return delete(c.getId());
+	}
+
+	public void update(Contato contato) {
+		if (contato.getId() == null) {
+			throw new RuntimeException("O id eh nulo, nao pode atualizar");
+		}
+		
+		try (Connection con = db.getConnection()) {
+			String sql = "UPDATE contatos "
+			   		   + "SET nome = ?, sobrenome = ? "
+					   + "WHERE id = ?";
+			
+			PreparedStatement cmd = 
+				con.prepareStatement(sql);
+			
+			cmd.setString(1, contato.getNome());
+			cmd.setString(2, contato.getSobrenome());
+			cmd.setInt(3, contato.getId());
+			cmd.execute();
+			
+			sql = "DELETE FROM telefones "
+				+ "WHERE id_contato = ?";
+			cmd = con.prepareStatement(sql);
+			cmd.setInt(1, contato.getId());
+			cmd.execute();
+			
+			// reinserindo
+			sql = "INSERT INTO telefones VALUES (?,?,?)";
+			for (Telefone t : contato.getTelefones()) {
+				cmd = con.prepareStatement(sql);
+				cmd.setInt(1, contato.getId());
+				cmd.setString(2, t.getDdd());
+				cmd.setString(3, t.getNumero());
+				cmd.execute();
+			}
+			
+			
+		} catch (Exception e) {
+			throw new RuntimeException(e);
+		}
+	}
+
+	
 	
 }
 

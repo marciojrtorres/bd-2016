@@ -51,16 +51,16 @@ DELETE FROM contatos
 WHERE nome = 'temp';
 -- 
 INSERT INTO telefones VALUES (
-  1, '53', '88992211'
+  18, '53', '88992211'
 ), (
-  1, '53', '32334455'
+  18, '53', '32334455'
 );
 --
 INSERT INTO telefones
 (id_contato, numero) VALUES (
-  2, '32334455'
+  19, '32334455'
 ), (
-  2, '99234455'
+  19, '99234455'
 );
 --
 SELECT nome, numero 

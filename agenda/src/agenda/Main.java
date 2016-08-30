@@ -73,6 +73,16 @@ public class Main {
 		// quando está no banco (persistente)
 		dao.update(contatoupdate);
 		
+		
+		
+		Contato umcontato = new Contato();
+		umcontato.setNome("Raquel");
+		umcontato.setSobrenome("Barbosa");
+		
+		ContatoDAO umdao = new ContatoDAO();
+		umdao.insert(umcontato);
+			
+		
 	}
 }
 

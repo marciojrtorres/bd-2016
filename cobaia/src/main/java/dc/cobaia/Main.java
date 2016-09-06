@@ -1,11 +1,12 @@
 package dc.cobaia;
 
-import dc.cobaia.webservices.ContatosWebService;
-import spark.Spark;
+import com.google.gson.Gson;
+
+import dc.cobaia.model.Contato;
 
 public class Main {
 	public static void main(String[] args) {
-
+		
 		// MustacheTemplateEngine engine =
 		// new MustacheTemplateEngine("web/htmls");
 
@@ -15,6 +16,7 @@ public class Main {
 
 		// ContatosController contatos = new ContatosController();
 
+		/*
 		ContatosWebService contatosWS = new ContatosWebService();
 
 		Spark.get("/contatos", contatosWS.contentType, 
@@ -22,6 +24,11 @@ public class Main {
 		
 		Spark.get("/nada", contatosWS.contentType, 
 				contatosWS.nada, contatosWS.transformer);
-
+		*/
+		
+		String c = "{nome: 'Marcio'}";
+		Gson g = new Gson();
+		Contato contato = g.fromJson(c, Contato.class);
+		System.out.println(contato.getNome());
 	}
 }

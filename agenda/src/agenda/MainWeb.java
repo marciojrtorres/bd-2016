@@ -1,19 +1,21 @@
 package agenda;
 
-import spark.*;
-import web.JsonTransformer;
-import web.RouteContatosAll;
+import spark.Spark;
+import web.ContatosWebService;
 
 public class MainWeb {
 
 	public static void main(String[] args) {
 		
-		JsonTransformer transf = new JsonTransformer();
+		ContatosWebService ws = 
+				new ContatosWebService();
 		
-		RouteContatosAll contatos = new RouteContatosAll();
+		Spark.get("/contatos", ws.contentType, 
+				ws.selectAll, ws.responseTransformer);
 		
-		Spark.get("/contatos", "application/json",
-				  contatos, transf);		
+		Spark.get("/contatos/:id", ws.contentType,
+				ws.select, ws.responseTransformer);
+		
 		
 	}
 }

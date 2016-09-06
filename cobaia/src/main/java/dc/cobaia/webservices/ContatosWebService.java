@@ -17,7 +17,7 @@ public class ContatosWebService extends WebService {
 	public final Service contatos = new Service() {
 		
 		@Override
-		public Object answer(Request req, Response resp) {
+		public Object get(Get data) {
 			List<Contato> contatos = new ArrayList<>();
 			contatos.add(new Contato("a"));
 			contatos.add(new Contato("b"));
@@ -28,8 +28,8 @@ public class ContatosWebService extends WebService {
 	public final Service nada = new Service() {
 		
 		@Override
-		public Object answer(Request req, Response resp) {
-			resp.status(401);
+		public Object post(Post data) {
+			Contato c = data.decode(Contato.class);
 			return "";
 		}
 	};

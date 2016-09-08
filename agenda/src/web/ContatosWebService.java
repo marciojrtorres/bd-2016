@@ -29,6 +29,17 @@ public class ContatosWebService extends WebService {
 			return dao.select(id);
 		}
 	};
+	
+	// cada ação é um Service do WebService
+	public final Service delete = new Service() {
+		
+		@Override
+		public Object deal(Request request, Response response) throws Exception {
+			// dao.delete(c)
+			// TODO Auto-generated method stub
+			return "";
+		}
+	};
 		
 	
 	

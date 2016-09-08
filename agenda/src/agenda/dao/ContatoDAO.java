@@ -88,6 +88,7 @@ con.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);
 				contato.setId(id);
 				contato.setNome(rs.getString("nome"));
 				contato.setSobrenome(rs.getString("sobrenome"));
+				selectTelefones(contato);
 				return contato;
 			}
 			

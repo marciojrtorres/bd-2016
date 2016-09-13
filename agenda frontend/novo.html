@@ -6,17 +6,71 @@
       <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     </head>
-    <body style="background-color: #26a69a">
+    <body style="background-color: white">
 
-    	<div class="container" style="color: white">
+    	<div class="container" style="color: #26a69a">
 				<h4>Favela<em>OS</em></h4>
 			</div>
 
 			<div class="container">
-				
+				<div class="row">
+          <form class="col s12" method="post">
+            <div class="row">
+              <div class="input-field col s12">
+                <input placeholder="nome" name="nome" 
+                       required
+                       id="nome" type="text" class="validate">
+                <label for="nome">Nome</label>
+              </div>
+              <div class="input-field col s12">
+                <input id="sobrenome"  placeholder="sobrenome" 
+                       name="sobrenome" required
+                       type="text" class="validate">
+                <label for="sobrenome">Sobrenome</label>
+              </div>
+              <div class="col s6">
+                <a id="add" class="waves-effect waves-light btn">
+                  <i class="material-icons left">add</i>Tel
+                </a>  
+              </div>
+              <div class="col s6">
+                <a id="save" class="waves-effect waves-light btn">
+                  <i class="material-icons left">save</i>Salvar
+                </a>  
+              </div>
+            </div>
+            <div class="row telefones">
+              <div class="input-field col s12">
+                <i class="material-icons prefix">phone</i>
+                <input placeholder="numero" maxlength="9" 
+                       name="numero" type="tel">
+              </div>
+            </div>
+          </form>
+        </div>
 			</div>
 
       <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
       <script type="text/javascript" src="js/materialize.min.js"></script>
-    </body>
+
+      <script type="text/javascript">
+        var tel = '<div class="input-field col s12"><i class="material-icons prefix">phone</i><input maxlength="9" placeholder="numero" name="numero" type="tel"></div>';
+        $(function(){
+          $('a:first').click(function(){
+            var html = $('div.telefones').html(); 
+            $('div.telefones').html(html + tel);
+          });
+        });
+      </script>
+    </body> 
   </html>
+
+
+
+
+
+
+
+
+
+

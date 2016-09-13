@@ -21,6 +21,23 @@ public class MainWeb {
 		Spark.get("/contatos/:id", ws.contentType,
 				ws.select, ws.responseTransformer);
 		
+		Spark.post("/contatos", ws.insert);
+/*
+contato="{nome: "Heitor", sobrenome: "Godoi",
+ telefones: [
+ {ddd:"53", numero:"88333333"},
+ {ddd:"53", numero:"88343443"}
+]}"
+
+*/
+
+		
+		
+		
+		
+		
+		
+		
 		
 	}
 }

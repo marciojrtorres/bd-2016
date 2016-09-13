@@ -56,9 +56,28 @@
       <script type="text/javascript">
         var tel = '<div class="input-field col s12"><i class="material-icons prefix">phone</i><input maxlength="9" placeholder="numero" name="numero" type="tel"></div>';
         $(function(){
-          $('a:first').click(function(){
+          $('#add').click(function(){
             var html = $('div.telefones').html(); 
             $('div.telefones').html(html + tel);
+          });
+
+          $('#save').click(function (){
+            var contato = {};
+            var form = document.forms[0];
+            contato.nome = form.nome.value;
+            contato.sobrenome = form.sobrenome.value;
+            contato.telefones = [];
+            for (var i = 0; i < form.numero.length; i++) {
+              var telefone = {};
+              telefone.numero = form.numero[i].value;
+              contato.telefones.push(telefone);
+            }
+            console.dir(contato);
+            var json = JSON.stringify(contato);
+            console.log(json);
+            $.post("http://localhost:4567/contatos", json, function() { // alert('ok' + r);
+              window.location = 'index.html';
+            }, 'text');
           });
         });
       </script>

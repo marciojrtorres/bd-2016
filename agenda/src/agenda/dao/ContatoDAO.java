@@ -125,6 +125,38 @@ con.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);
 		}
 	}
 
+	public List<Contato> selectByNome(String nome) {
+		try (Connection con = db.getConnection()) {
+			String sql = "SELECT id, nome, sobrenome "
+					   + "FROM contatos "
+					   + "WHERE nome ilike ? "
+					   + "ORDER BY nome ASC";
+			
+			PreparedStatement cmd = 
+						con.prepareStatement(sql);
+		
+			cmd.setString(1, "%" + nome + "%");
+			
+			ResultSet rs = cmd.executeQuery(); // consulta devolve um ResultSet
+			
+			List<Contato> contatos = new ArrayList();
+			
+			while (rs.next()) {
+				Contato contato = new Contato();
+				contato.setId(rs.getInt("id"));
+				contato.setNome(rs.getString("nome"));
+				contato.setSobrenome(rs.getString("sobrenome"));
+				contatos.add(contato);
+			}
+			
+			return contatos;
+			
+		} catch (Exception e) {
+			throw new RuntimeException(e);
+		}
+	}
+	
+	
 	public List<Contato> selectPage(int pagina) {
 		try (Connection con = db.getConnection()) {
 			String sql = "SELECT id, nome, sobrenome "

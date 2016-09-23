@@ -59,6 +59,15 @@ public class ContatosWebService extends WebService {
 		}
 	};
 	
+	public final Service search = new Service() {
+		
+		@Override
+		public Object deal(Request request, Response response) throws Exception {
+			String nome = request.params("nome");
+			return dao.selectByNome(nome);
+		}
+	};
+	
 	
 }
 

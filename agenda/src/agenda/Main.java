@@ -20,6 +20,10 @@ public class Main {
 		// PERSISTENTE (em disco)
 		dao.insert(c);
 		
+		System.out.println(dao.selectAll());
+		
+		System.out.println(dao.selectByNome("ogro"));
+		
 	}
 }
 

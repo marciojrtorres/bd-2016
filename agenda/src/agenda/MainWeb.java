@@ -21,7 +21,14 @@ public class MainWeb {
 		Spark.get("/contatos/:id", ws.contentType,
 				ws.select, ws.responseTransformer);
 		
+		//Spark.post("/contatos/update", ws.update);
+		
 		Spark.post("/contatos", ws.insert);
+		
+		Spark.get("/contatos/search/:nome", ws.contentType,
+				ws.search, ws.responseTransformer);
+		
+		
 /*
 contato="{nome: "Heitor", sobrenome: "Godoi",
  telefones: [

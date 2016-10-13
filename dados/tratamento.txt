@@ -1,0 +1,1 @@
+cat ocorrencias.csv | sed -r 's/"//g' | sed -r 's/([0-9]{4})-([0-9]{2})/\1;\2/g' > ocorrencias-limpo.csv

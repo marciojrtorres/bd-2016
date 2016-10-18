@@ -1,0 +1,498 @@
+Municípios 	Código 	Gentílico 	População 2010 	Área da unidade territorial 2015 (km²) 	Densidade demográfica 2010 (hab/km²) 	Série revisada - Valor adicionado bruto Total, a preços correntes
+Aceguá 	4300034 	aceguaense 	4.394 	1.547,96 	2,8 	170.132
+Água Santa 	4300059 	água-santense 	3.722 	291,90 	12,8 	220.083
+Agudo 	4300109 	agudense 	16.722 	536,11 	31,2 	326.991
+Ajuricaba 	4300208 	ajuricabense 	7.255 	323,24 	22,4 	188.838
+Alecrim 	4300307 	alecrinense 	7.045 	316,74 	22,4 	81.068
+Alegrete 	4300406 	alegretense 	77.653 	7.803,95 	10,0 	1.407.285
+Alegria 	4300455 	alegriense 	4.301 	172,69 	24,9 	70.732
+Almirante Tamandaré do Sul 	4300471 	tamandarense 	2.067 	265,37 	7,8 	99.676
+Alpestre 	4300505 	alpestrense 	8.027 	324,64 	24,7 	106.370
+Alto Alegre 	4300554 	alto-alegrense 	1.848 	114,45 	16,2 	54.270
+Alto Feliz 	4300570 	alto-felizense 	2.917 	78,84 	36,8 	54.277
+Alvorada 	4300604 	alvoradense 	195.673 	71,31 	2.743,9 	1.830.456
+Amaral Ferrador 	4300638 	amaralense 	6.353 	506,46 	12,5 	80.270
+Ametista do Sul 	4300646 	ametistense 	7.323 	93,49 	78,3 	68.587
+André da Rocha 	4300661 	andré-rochense 	1.216 	324,33 	3,8 	98.204
+Anta Gorda 	4300703 	anta-gordense 	6.073 	242,96 	25,0 	134.152
+Antônio Prado 	4300802 	pradense 	12.833 	347,62 	36,9 	324.227
+Arambaré 	4300851 	arambarense 	3.693 	519,12 	7,1 	100.446
+Araricá 	4300877 	arariquense 	4.864 	35,15 	137,8 	105.922
+Aratiba 	4300901 	aratibense 	6.565 	342,50 	19,2 	736.887
+Arroio do Meio 	4301008 	arroio-meense 	18.783 	157,96 	118,9 	725.079
+Arroio do Padre 	4301073 	arroio padrense 	2.730 	124,32 	22,0 	38.905
+Arroio do Sal 	4301057 	arroio-salense 	7.740 	120,91 	64,0 	142.292
+Arroio do Tigre 	4301206 	tigrense 	12.648 	316,51 	39,7 	278.288
+Arroio dos Ratos 	4301107 	ratense 	13.606 	425,93 	31,9 	163.557
+Arroio Grande 	4301305 	arroio-grandense 	18.470 	2.513,60 	7,4 	423.839
+Arvorezinha 	4301404 	arvorezinhense 	10.225 	271,64 	37,6 	171.316
+Augusto Pestana 	4301503 	augusto-pestanense 	7.096 	347,72 	20,4 	221.927
+Áurea 	4301552 	aurense 	3.665 	158,29 	23,2 	67.033
+Bagé 	4301602 	bageense 	116.794 	4.093,58 	28,5 	1.879.909
+Balneário Pinhal 	4301636 	pinhalense 	10.856 	102,25 	104,6 	143.600
+Barão 	4301651 	baronense 	5.741 	124,56 	46,1 	176.801
+Barão de Cotegipe 	4301701 	cotegipense 	6.529 	260,21 	25,1 	135.301
+Barão do Triunfo 	4301750 	baronense 	7.018 	436,40 	16,1 	89.331
+Barra do Guarita 	4301859 	barra-guaritense 	3.089 	63,37 	48,0 	33.249
+Barra do Quaraí 	4301875 	barrense 	4.012 	1.054,45 	3,8 	128.996
+Barra do Ribeiro 	4301909 	barrense 	12.572 	728,95 	17,3 	203.120
+Barra do Rio Azul 	4301925 	barra-azulense 	2.003 	147,14 	13,6 	36.583
+Barra Funda 	4301958 	barra-fundense 	2.367 	60,03 	39,4 	87.451
+Barracão 	4301800 	barraconense 	5.357 	516,73 	10,4 	139.733
+Barros Cassal 	4302006 	barros-cassalense 	11.133 	648,90 	17,2 	137.124
+Benjamin Constant do Sul 	4302055 	benjaminense 	2.307 	132,40 	17,4 	23.064
+Bento Gonçalves 	4302105 	bento-gonçalvense 	107.278 	274,07 	280,9 	4.009.349
+Boa Vista das Missões 	4302154 	boa-vistense 	2.114 	194,82 	10,9 	111.690
+Boa Vista do Buricá 	4302204 	boa-vistense 	6.574 	108,73 	60,5 	139.075
+Boa Vista do Cadeado 	4302220 	cadeadense 	2.441 	700,53 	3,5 	171.665
+Boa Vista do Incra 	4302238 	boa vistense do incra 	2.425 	503,47 	4,8 	136.707
+Boa Vista do Sul 	4302253 	boavistense 	2.776 	92,93 	29,4 	53.653
+Bom Jesus 	4302303 	bom-jesuense 	11.519 	2.624,67 	4,4 	239.043
+Bom Princípio 	4302352 	bom-principiense 	11.789 	88,50 	133,2 	322.919
+Bom Progresso 	4302378 	bom-progressense 	2.328 	88,74 	26,2 	43.197
+Bom Retiro do Sul 	4302402 	bom-retirense 	11.472 	102,33 	112,1 	182.118
+Boqueirão do Leão 	4302451 	léo-boqueirense 	7.673 	265,52 	28,9 	98.362
+Bossoroca 	4302501 	bossoroquense 	6.884 	1.610,57 	4,3 	206.736
+Bozano 	4302584 	bozanense 	2.200 	201,04 	10,9 	69.147
+Braga 	4302600 	braguense 	3.702 	128,99 	28,7 	66.022
+Brochier 	4302659 	brochiense 	4.675 	105,38 	43,8 	65.379
+Butiá 	4302709 	butiaense 	20.406 	752,19 	27,1 	312.880
+Caçapava do Sul 	4302808 	caçapavano 	33.690 	3.047,11 	11,1 	579.518
+Cacequi 	4302907 	cacequiense 	13.676 	2.369,95 	5,8 	242.320
+Cachoeira do Sul 	4303004 	cachoeirense 	83.827 	3.735,16 	22,4 	1.679.183
+Cachoeirinha 	4303103 	cachoeirinhense 	118.278 	44,02 	2.687,0 	3.501.330
+Cacique Doble 	4303202 	caciquense 	4.868 	203,80 	23,9 	72.346
+Caibaté 	4303301 	caibateense 	4.954 	260,31 	19,1 	119.064
+Caiçara 	4303400 	caiçarense 	5.071 	189,20 	26,8 	78.850
+Camaquã 	4303509 	camaquense 	62.764 	1.679,43 	37,4 	1.320.707
+Camargo 	4303558 	camarguense 	2.592 	138,07 	18,8 	124.355
+Cambará do Sul 	4303608 	cambaraense 	6.542 	1.208,65 	5,4 	104.733
+Campestre da Serra 	4303673 	campestrense 	3.247 	538,00 	6,0 	78.833
+Campina das Missões 	4303707 	campinense 	6.117 	225,58 	27,1 	98.064
+Campinas do Sul 	4303806 	campinense 	5.506 	276,16 	19,9 	167.607
+Campo Bom 	4303905 	campo-bonense 	60.074 	60,51 	992,8 	1.746.751
+Campo Novo 	4304002 	campo-novense 	5.459 	222,07 	24,6 	134.946
+Campos Borges 	4304101 	campos-borgense 	3.494 	226,58 	15,4 	71.792
+Candelária 	4304200 	candelariense 	30.171 	943,95 	32,0 	529.912
+Cândido Godói 	4304309 	godoiense 	6.535 	246,28 	26,5 	152.210
+Candiota 	4304358 	candiotense 	8.771 	933,83 	9,4 	116.892
+Canela 	4304408 	canelense 	39.229 	253,77 	154,6 	660.348
+Canguçu 	4304507 	canguçuense 	53.259 	3.525,29 	15,1 	740.498
+Canoas 	4304606 	canoense 	323.827 	131,10 	2.470,2 	8.321.523
+Canudos do Vale 	4304614 	canudense do vale 	1.807 	81,82 	22,1 	35.327
+Capão Bonito do Sul 	4304622 	capão bonitense 	1.754 	527,12 	3,3 	103.146
+Capão da Canoa 	4304630 	caponense 	42.040 	97,10 	433,0 	878.807
+Capão do Cipó 	4304655 	cipoense 	3.104 	1.008,87 	3,1 	226.630
+Capão do Leão 	4304663 	leonense 	24.298 	785,37 	30,9 	346.041
+Capela de Santana 	4304689 	capelense 	11.612 	183,07 	63,2 	137.668
+Capitão 	4304697 	capitanense 	2.636 	73,97 	35,6 	52.023
+Capivari do Sul 	4304671 	capivariense 	3.890 	412,72 	9,4 	159.107
+Caraá 	4304713 	caraense 	7.312 	294,46 	24,8 	76.524
+Carazinho 	4304705 	carazinhense 	59.317 	665,09 	89,2 	1.578.097
+Carlos Barbosa 	4304804 	barbosense 	25.192 	229,99 	110,2 	1.147.663
+Carlos Gomes 	4304853 	carlos-gomense 	1.607 	83,16 	19,3 	28.797
+Casca 	4304903 	casquense 	8.651 	271,86 	31,8 	280.919
+Caseiros 	4304952 	caseirense 	3.007 	235,71 	12,8 	77.504
+Catuípe 	4305009 	catuipano 	9.323 	583,26 	16,0 	252.414
+Caxias do Sul 	4305108 	caxiense 	435.564 	1.652,31 	264,9 	18.013.298
+Centenário 	4305116 	centenariense 	2.965 	134,45 	22,1 	48.579
+Cerrito 	4305124 	cerritense 	6.402 	451,70 	14,2 	72.226
+Cerro Branco 	4305132 	cerro-branquense 	4.454 	158,57 	28,1 	59.023
+Cerro Grande 	4305157 	cerro-grandense 	2.417 	73,44 	32,9 	41.821
+Cerro Grande do Sul 	4305173 	sul-cerro-grandense 	10.268 	324,79 	31,6 	124.763
+Cerro Largo 	4305207 	cerro-larguense 	13.289 	177,68 	74,8 	479.731
+Chapada 	4305306 	chapadense 	9.377 	684,04 	13,7 	325.257
+Charqueadas 	4305355 	charqueadense 	35.320 	216,51 	163,1 	906.212
+Charrua 	4305371 	charruense 	3.471 	198,12 	17,5 	68.655
+Chiapetta 	4305405 	chiapetense 	4.044 	396,55 	10,2 	156.679
+Chuí 	4305439 	chuiense 	5.917 	201,18 	29,2 	118.446
+Chuvisca 	4305447 	chuvisquense 	4.944 	220,47 	22,4 	91.726
+Cidreira 	4305454 	cidreirense 	12.668 	245,89 	51,5 	188.736
+Ciríaco 	4305504 	ciriaquense 	4.922 	273,87 	18,0 	111.841
+Colinas 	4305587 	colinense 	2.420 	58,37 	41,5 	56.606
+Colorado 	4305603 	coloradense 	3.550 	285,26 	12,4 	142.221
+Condor 	4305702 	condorense 	6.552 	465,19 	14,1 	237.599
+Constantina 	4305801 	constantinense 	9.752 	203,00 	48,0 	207.848
+Coqueiro Baixo 	4305835 	coqueirense 	1.528 	112,28 	13,6 	28.089
+Coqueiros do Sul 	4305850 	coqueirense 	2.457 	275,55 	8,9 	75.042
+Coronel Barros 	4305871 	coronel-barrense 	2.459 	162,95 	15,1 	79.807
+Coronel Bicaco 	4305900 	bicaquense 	7.748 	492,12 	15,7 	208.884
+Coronel Pilar 	4305934 	coronel pilarense 	1.725 	105,45 	16,4 	31.643
+Cotiporã 	4305959 	cotiporanense 	3.917 	172,38 	22,7 	69.503
+Coxilha 	4305975 	coxilhense 	2.826 	422,79 	6,7 	160.032
+Crissiumal 	4306007 	crissiumalense 	14.084 	363,11 	38,9 	233.866
+Cristal 	4306056 	cristalense 	7.280 	681,63 	10,7 	129.839
+Cristal do Sul 	4306072 	cristalense 	2.826 	97,72 	28,9 	44.374
+Cruz Alta 	4306106 	cruzaltense 	62.821 	1.360,29 	46,2 	2.289.867
+Cruzaltense 	4306130 	cruzaltino 	2.141 	166,88 	12,8 	57.318
+Cruzeiro do Sul 	4306205 	cruzeirense 	12.320 	154,14 	79,2 	237.659
+David Canabarro 	4306304 	canabarrense 	4.683 	174,94 	26,8 	102.327
+Derrubadas 	4306320 	derrubadense 	3.190 	361,17 	8,8 	69.600
+Dezesseis de Novembro 	4306353 	dezesseis-novembrense 	2.866 	216,85 	13,2 	28.556
+Dilermando de Aguiar 	4306379 	dilermandense 	3.064 	600,55 	5,1 	88.226
+Dois Irmãos 	4306403 	dois-irmãosense 	27.572 	65,16 	423,2 	1.143.579
+Dois Irmãos das Missões 	4306429 	dois-irmãozense 	2.157 	225,68 	9,6 	86.290
+Dois Lajeados 	4306452 	dois-lajeense 	3.278 	133,37 	24,6 	68.900
+Dom Feliciano 	4306502 	felicianense 	14.380 	1.356,17 	10,6 	173.530
+Dom Pedrito 	4306601 	pedritense 	38.898 	5.190,24 	7,5 	922.836
+Dom Pedro de Alcântara 	4306551 	dom-pedro-alcantarense 	2.550 	78,16 	32,6 	43.420
+Dona Francisca 	4306700 	francisquense 	3.401 	114,35 	29,7 	57.180
+Doutor Maurício Cardoso 	4306734 	mauriciense 	5.313 	256,87 	21,0 	139.396
+Doutor Ricardo 	4306759 	ricardense 	2.030 	108,43 	18,7 	43.544
+Eldorado do Sul 	4306767 	eldoradense 	34.343 	509,73 	67,4 	784.493
+Encantado 	4306809 	encantadense 	20.510 	139,16 	147,4 	540.343
+Encruzilhada do Sul 	4306908 	encruzilhadense 	24.534 	3.348,32 	7,3 	308.771
+Engenho Velho 	4306924 	engenho-velhense 	1.527 	71,19 	21,5 	38.635
+Entre Rios do Sul 	4306957 	entre-rio-sulense 	3.080 	120,07 	25,7 	218.927
+Entre-Ijuís 	4306932 	entre-ijuiense 	8.938 	552,62 	16,2 	246.761
+Erebango 	4306973 	erebanguense 	2.970 	153,12 	19,4 	72.835
+Erechim 	4307005 	erechinense 	96.087 	430,67 	223,1 	3.529.230
+Ernestina 	4307054 	ernestinense 	3.088 	239,15 	12,9 	102.817
+Erval Grande 	4307203 	erval-grandense 	5.163 	285,73 	18,1 	63.048
+Erval Seco 	4307302 	erval-sequense 	7.878 	363,89 	21,7 	181.057
+Esmeralda 	4307401 	esmeraldense 	3.168 	829,77 	3,8 	126.066
+Esperança do Sul 	4307450 	esperançulense 	3.272 	148,91 	22,1 	55.243
+Espumoso 	4307500 	espumosense 	15.240 	783,07 	19,5 	521.559
+Estação 	4307559 	estacionense 	6.011 	100,27 	60,0 	164.670
+Estância Velha 	4307609 	estanciense 	42.574 	52,15 	816,4 	1.027.735
+Esteio 	4307708 	esteiense 	80.755 	27,68 	2.917,9 	2.383.405
+Estrela 	4307807 	estrelense 	30.619 	184,18 	166,3 	1.048.400
+Estrela Velha 	4307815 	estrelavelhense 	3.628 	281,67 	12,9 	110.732
+Eugênio de Castro 	4307831 	eugenio-castrense 	2.798 	419,30 	6,7 	154.013
+Fagundes Varela 	4307864 	fagundense 	2.579 	134,30 	19,2 	57.050
+Farroupilha 	4307906 	farroupilhense 	63.635 	361,68 	176,6 	1.969.735
+Faxinal do Soturno 	4308003 	soturnense 	6.672 	169,51 	39,3 	133.578
+Faxinalzinho 	4308052 	faxinalzinhense 	2.567 	143,38 	17,9 	49.083
+Fazenda Vilanova 	4308078 	vilanovense 	3.697 	84,79 	43,6 	89.089
+Feliz 	4308102 	felizense 	12.359 	95,37 	129,6 	278.113
+Flores da Cunha 	4308201 	florense 	27.126 	272,61 	99,2 	908.080
+Floriano Peixoto 	4308250 	florianense 	2.018 	168,43 	12,0 	41.130
+Fontoura Xavier 	4308300 	fontourense 	10.719 	583,47 	18,4 	126.582
+Formigueiro 	4308409 	formigueirense 	7.014 	580,03 	12,1 	125.391
+Forquetinha 	4308433 	forquetinhense 	2.479 	92,84 	26,5 	35.512
+Fortaleza dos Valos 	4308458 	fortalezense 	4.575 	650,37 	7,0 	211.555
+Frederico Westphalen 	4308508 	westphalense 	28.843 	264,98 	108,9 	713.383
+Garibaldi 	4308607 	garibaldense 	30.689 	168,14 	181,3 	1.205.022
+Garruchos 	4308656 	garruchense 	3.234 	803,74 	4,0 	94.241
+Gaurama 	4308706 	gauramense 	5.862 	204,26 	28,7 	143.508
+General Câmara 	4308805 	camaraense 	8.447 	510,01 	16,6 	122.808
+Gentil 	4308854 	gentilense 	1.677 	184,01 	9,1 	82.618
+Getúlio Vargas 	4308904 	getuliense 	16.154 	286,57 	56,4 	371.521
+Giruá 	4309001 	giruaense 	17.075 	855,92 	20,0 	507.737
+Glorinha 	4309050 	glorinhense 	6.891 	323,64 	21,3 	315.781
+Gramado 	4309100 	gramadense 	32.273 	237,83 	135,7 	1.179.300
+Gramado dos Loureiros 	4309126 	loureirense 	2.269 	131,40 	17,3 	39.622
+Gramado Xavier 	4309159 	gramado-xavierense 	3.970 	217,53 	18,3 	59.199
+Gravataí 	4309209 	gravataiense 	255.660 	463,50 	551,6 	8.305.064
+Guabiju 	4309258 	guabijuense 	1.598 	146,90 	10,8 	44.237
+Guaíba 	4309308 	guaibense 	95.204 	376,95 	252,6 	2.712.045
+Guaporé 	4309407 	guaporense 	22.814 	297,66 	76,6 	538.935
+Guarani das Missões 	4309506 	guaraniense 	8.115 	290,50 	27,9 	216.280
+Harmonia 	4309555 	harmoniense 	4.254 	44,76 	95,0 	88.917
+Herval 	4307104 	hervalense 	6.753 	1.757,61 	3,8 	82.162
+Herveiras 	4309571 	herveirense 	2.954 	118,28 	25,0 	50.643
+Horizontina 	4309605 	horizontinense 	18.348 	229,40 	78,9 	1.279.777
+Hulha Negra 	4309654 	hulha-negrense 	6.043 	822,90 	7,3 	113.117
+Humaitá 	4309704 	humaitaense 	4.919 	134,51 	36,6 	113.443
+Ibarama 	4309753 	ibaramense 	4.371 	194,92 	22,6 	66.829
+Ibiaçá 	4309803 	ibiaçaense 	4.710 	348,82 	13,5 	157.068
+Ibiraiaras 	4309902 	ibiraiarense 	7.171 	300,65 	23,9 	185.331
+Ibirapuitã 	4309951 	ibirapuitanense 	4.061 	307,35 	13,2 	90.415
+Ibirubá 	4310009 	ibirubense 	19.310 	607,54 	31,8 	805.393
+Igrejinha 	4310108 	igrejinhense 	31.660 	135,86 	233,0 	1.130.246
+Ijuí 	4310207 	ijuiense 	78.915 	689,39 	114,5 	2.505.902
+Ilópolis 	4310306 	ilopolitano 	4.102 	116,48 	35,2 	88.939
+Imbé 	4310330 	Imbeense 	17.670 	39,40 	448,5 	313.506
+Imigrante 	4310363 	imigrantense 	3.023 	73,69 	41,2 	136.935
+Independência 	4310405 	independenciense 	6.618 	357,44 	18,5 	161.832
+Inhacorá 	4310413 	inhacorense 	2.267 	114,11 	19,9 	47.414
+Ipê 	4310439 	ipeense 	6.016 	599,25 	10,0 	152.921
+Ipiranga do Sul 	4310462 	ipiranguense 	1.944 	157,88 	12,3 	74.406
+Iraí 	4310504 	iraiense 	8.078 	180,96 	44,6 	117.667
+Itaara 	4310538 	itaarense 	5.010 	172,80 	29,0 	72.243
+Itacurubi 	4310553 	itacurubiense 	3.441 	1.120,87 	3,1 	66.474
+Itapuca 	4310579 	itapuquense 	2.344 	184,67 	12,7 	42.362
+Itaqui 	4310603 	itaquiense 	38.159 	3.406,61 	11,2 	934.111
+Itati 	4310652 	itatiense 	2.584 	206,91 	12,5 	55.718
+Itatiba do Sul 	4310702 	itatibense 	4.171 	212,24 	19,7 	47.418
+Ivorá 	4310751 	ivorense 	2.156 	122,93 	17,5 	41.987
+Ivoti 	4310801 	ivotiense 	19.874 	63,15 	314,7 	629.154
+Jaboticaba 	4310850 	jaboticabense 	4.098 	128,05 	32,0 	68.823
+Jacuizinho 	4310876 	jacuizinhense 	2.507 	338,54 	7,4 	79.539
+Jacutinga 	4310900 	jacutinguense 	3.633 	179,30 	20,3 	116.116
+Jaguarão 	4311007 	jaguarense 	27.931 	2.051,02 	13,6 	490.480
+Jaguari 	4311106 	jaguariense 	11.473 	673,40 	17,0 	184.769
+Jaquirana 	4311122 	jaquiranense 	4.177 	907,94 	4,6 	52.222
+Jari 	4311130 	jariense 	3.575 	856,46 	4,2 	151.025
+Jóia 	4311155 	joiense 	8.331 	1.235,92 	6,7 	350.353
+Júlio de Castilhos 	4311205 	castilhense 	19.579 	1.930,39 	10,2 	730.054
+Lagoa Bonita do Sul 	4311239 	lagobonitense 	2.662 	108,73 	24,5 	47.749
+Lagoa dos Três Cantos 	4311270 	três-cantense 	1.598 	138,64 	11,5 	66.844
+Lagoa Vermelha 	4311304 	lagoense 	27.525 	1.263,50 	21,8 	742.283
+Lagoão 	4311254 	lagoense 	6.185 	386,96 	16,1 	83.035
+Lajeado 	4311403 	lajeadense 	71.445 	91,16 	793,1 	2.473.401
+Lajeado do Bugre 	4311429 	lajeado-bugrense 	2.487 	67,93 	36,6 	37.637
+Lavras do Sul 	4311502 	lavrense 	7.679 	2.600,60 	3,0 	171.385
+Liberato Salzano 	4311601 	salzanense 	5.780 	245,63 	23,5 	87.149
+Lindolfo Collor 	4311627 	lindolfo-collorense 	5.227 	32,99 	158,4 	208.392
+Linha Nova 	4311643 	linha-novense 	1.624 	63,73 	25,5 	38.758
+Maçambará 	4311718 	maçambarense 	4.738 	1.682,82 	2,8 	178.190
+Machadinho 	4311700 	machadinhense 	5.510 	335,03 	16,5 	98.157
+Mampituba 	4311734 	mampitubense 	3.003 	157,85 	19,0 	34.321
+Manoel Viana 	4311759 	vianense 	7.072 	1.390,70 	5,1 	170.378
+Maquiné 	4311775 	maquinense 	6.905 	621,56 	11,1 	81.754
+Maratá 	4311791 	marataense 	2.527 	82,17 	31,1 	80.611
+Marau 	4311809 	marauense 	36.364 	649,30 	56,0 	1.333.062
+Marcelino Ramos 	4311908 	marcelinense 	5.134 	229,76 	22,4 	81.751
+Mariana Pimentel 	4311981 	marianense 	3.768 	337,79 	11,2 	45.407
+Mariano Moro 	4312005 	marianense 	2.210 	98,98 	22,3 	40.275
+Marques de Souza 	4312054 	marquesouzense 	4.068 	125,18 	32,5 	60.222
+Mata 	4312104 	matense 	5.111 	311,88 	16,4 	78.899
+Mato Castelhano 	4312138 	mato-castelhanense 	2.470 	238,37 	10,4 	99.027
+Mato Leitão 	4312153 	mato-leitoense 	3.865 	46,92 	84,2 	94.682
+Mato Queimado 	4312179 	matoqueimadense 	1.799 	113,99 	15,7 	46.336
+Maximiliano de Almeida 	4312203 	almeidense 	4.911 	208,44 	23,6 	74.645
+Minas do Leão 	4312252 	leonense 	7.631 	424,34 	18,0 	108.611
+Miraguaí 	4312302 	miraguaiense 	4.855 	130,43 	37,2 	107.899
+Montauri 	4312351 	montauriense 	1.542 	82,08 	18,8 	45.010
+Monte Alegre dos Campos 	4312377 	montealegrense 	3.102 	549,74 	5,6 	41.315
+Monte Belo do Sul 	4312385 	monte-belense 	2.670 	69,60 	39,1 	92.564
+Montenegro 	4312401 	montenegrino 	59.415 	424,44 	140,1 	2.177.219
+Mormaço 	4312427 	mormacense 	2.749 	146,11 	18,8 	75.231
+Morrinhos do Sul 	4312443 	morrinhense 	3.182 	165,51 	19,2 	44.847
+Morro Redondo 	4312450 	morro-redondense 	6.227 	244,65 	25,5 	71.672
+Morro Reuter 	4312476 	morroreutense 	5.676 	87,83 	64,8 	117.083
+Mostardas 	4312500 	mostardense 	12.124 	1.982,99 	6,1 	250.911
+Muçum 	4312609 	muçuense 	4.791 	111,23 	43,2 	151.568
+Muitos Capões 	4312617 	caponense 	2.988 	1.197,93 	2,5 	307.345
+Muliterno 	4312625 	muliternense 	1.813 	111,13 	16,3 	40.243
+Não-Me-Toque 	4312658 	não-me-toquense 	15.936 	361,67 	44,1 	937.004
+Nicolau Vergueiro 	4312674 	nicolau-vergueirense 	1.721 	155,82 	11,0 	71.581
+Nonoai 	4312708 	nonoaiense 	12.074 	468,91 	25,8 	261.069
+Nova Alvorada 	4312757 	nova-alvoradense 	3.182 	148,94 	21,3 	99.006
+Nova Araçá 	4312807 	araçaense 	4.001 	74,70 	53,8 	128.773
+Nova Bassano 	4312906 	bassanense 	8.840 	211,61 	41,8 	632.058
+Nova Boa Vista 	4312955 	boa-vistense 	1.960 	94,24 	20,8 	55.231
+Nova Bréscia 	4313003 	bresciense 	3.184 	102,82 	31,0 	68.999
+Nova Candelária 	4313011 	nova-candelariense 	2.751 	97,83 	28,1 	90.920
+Nova Esperança do Sul 	4313037 	nova-esperancense 	4.671 	191,00 	24,5 	116.014
+Nova Hartz 	4313060 	nova-hartense 	18.346 	62,56 	293,3 	568.006
+Nova Pádua 	4313086 	paduense 	2.450 	103,24 	23,7 	46.039
+Nova Palma 	4313102 	nova-palmense 	6.342 	313,89 	20,2 	154.230
+Nova Petrópolis 	4313201 	nova-petropolitano 	19.045 	291,30 	65,4 	498.646
+Nova Prata 	4313300 	nova-pratense 	22.830 	258,87 	88,2 	747.533
+Nova Ramada 	4313334 	morador de nova rama 	2.437 	254,76 	9,6 	82.737
+Nova Roma do Sul 	4313359 	nova-romense 	3.343 	149,05 	22,4 	85.867
+Nova Santa Rita 	4313375 	nova-santaritense 	22.716 	217,87 	104,3 	748.074
+Novo Barreiro 	4313490 	novo-barreirense 	3.978 	123,58 	32,2 	66.461
+Novo Cabrais 	4313391 	cabraisense 	3.855 	192,29 	20,1 	65.785
+Novo Hamburgo 	4313409 	novo-hamburguense 	238.940 	223,82 	1.067,6 	6.161.757
+Novo Machado 	4313425 	novo-machadense 	3.925 	219,80 	18,0 	84.161
+Novo Tiradentes 	4313441 	tiradentense 	2.277 	75,43 	30,2 	41.032
+Novo Xingu 	4313466 	xinguense 	1.757 	80,59 	21,8 	39.751
+Osório 	4313508 	osoriense 	40.906 	663,55 	61,7 	952.654
+Paim Filho 	4313607 	paim-filhense 	4.243 	182,29 	23,3 	72.835
+Palmares do Sul 	4313656 	palmarense 	10.969 	950,72 	11,6 	233.807
+Palmeira das Missões 	4313706 	palmeirense 	34.328 	1.419,43 	24,2 	955.711
+Palmitinho 	4313805 	palmitense 	6.920 	144,05 	48,0 	125.092
+Panambi 	4313904 	panambiense 	38.058 	490,86 	77,5 	1.384.167
+Pantano Grande 	4313953 	pantanense 	9.895 	841,23 	11,8 	221.658
+Paraí 	4314001 	paraiense 	6.812 	121,45 	56,6 	186.586
+Paraíso do Sul 	4314027 	paraisense 	7.336 	337,84 	21,7 	114.477
+Pareci Novo 	4314035 	pareciense 	3.511 	57,41 	61,2 	62.375
+Parobé 	4314050 	parobeense 	51.502 	108,76 	474,0 	869.124
+Passa Sete 	4314068 	passasetense 	5.154 	305,00 	16,9 	81.424
+Passo do Sobrado 	4314076 	passo-sobradense 	6.011 	265,11 	22,7 	130.400
+Passo Fundo 	4314100 	passo-fundense 	184.826 	783,42 	235,9 	6.219.762
+Paulo Bento 	4314134 	paulobentense 	2.196 	148,28 	14,8 	69.022
+Paverama 	4314159 	paveramense 	8.044 	171,86 	46,8 	117.477
+Pedras Altas 	4314175 	pedras altense 	2.212 	1.375,76 	1,6 	59.887
+Pedro Osório 	4314209 	pedro-osoriense 	7.811 	608,79 	12,8 	94.543
+Pejuçara 	4314308 	pejuçarense 	3.973 	414,24 	9,6 	190.841
+Pelotas 	4314407 	pelotense 	328.275 	1.610,08 	203,9 	5.371.274
+Picada Café 	4314423 	picadense 	5.182 	85,15 	60,9 	247.071
+Pinhal 	4314456 	pinhalense 	2.513 	68,21 	36,8 	53.898
+Pinhal da Serra 	4314464 	pinhalense 	2.130 	437,84 	4,9 	189.013
+Pinhal Grande 	4314472 	pinhal-grandense 	4.471 	477,13 	9,4 	122.741
+Pinheirinho do Vale 	4314498 	pinheirinhense 	4.497 	105,61 	42,6 	63.457
+Pinheiro Machado 	4314506 	pinheirense 	12.780 	2.249,56 	5,7 	196.379
+Pinto Bandeira 	4314548 	pinto bandeirense 		105,07 		31.131
+Pirapó 	4314555 	pirapoense 	2.757 	294,11 	9,5 	40.197
+Piratini 	4314605 	piratinense 	19.841 	3.539,69 	5,6 	267.348
+Planalto 	4314704 	planaltense 	10.524 	230,42 	45,7 	129.305
+Poço das Antas 	4314753 	poçandense 	2.017 	67,57 	31,0 	53.395
+Pontão 	4314779 	pontanense 	3.857 	505,71 	7,6 	181.282
+Ponte Preta 	4314787 	ponte-pretense 	1.750 	99,87 	17,5 	43.250
+Portão 	4314803 	portanense 	30.920 	159,90 	193,4 	837.854
+Porto Alegre 	4314902 	porto-alegrense 	1.409.351 	496,68 	2.837,5 	48.651.075
+Porto Lucena 	4315008 	porto-lucenense 	5.413 	251,26 	21,7 	75.619
+Porto Mauá 	4315057 	porto-mauense 	2.542 	105,69 	24,1 	39.648
+Porto Vera Cruz 	4315073 	porto-vera-cruzense 	1.852 	114,54 	16,3 	28.710
+Porto Xavier 	4315107 	porto-xavierense 	10.558 	281,93 	37,6 	118.537
+Pouso Novo 	4315131 	pouso-novense 	1.875 	106,53 	17,6 	37.894
+Presidente Lucena 	4315149 	lucinense 	2.484 	49,43 	50,3 	62.266
+Progresso 	4315156 	progressense 	6.163 	255,86 	24,1 	95.033
+Protásio Alves 	4315172 	protásio-alvense 	2.000 	172,82 	11,6 	43.747
+Putinga 	4315206 	putinguense 	4.141 	205,05 	20,2 	71.642
+Quaraí 	4315305 	quaraiense 	23.021 	3.147,63 	7,3 	299.433
+Quatro Irmãos 	4315313 	quatroirmanense 	1.775 	267,99 	6,6 	77.899
+Quevedos 	4315321 	quevedense 	2.710 	543,36 	5,0 	121.499
+Quinze de Novembro 	4315354 	quinze-novembrense 	3.653 	223,64 	16,3 	127.272
+Redentora 	4315404 	redentorense 	10.222 	302,68 	33,8 	125.560
+Relvado 	4315453 	relvadense 	2.155 	123,44 	17,5 	41.207
+Restinga Seca 	4315503 	restinguense 	15.849 	968,50 	16,6 	305.156
+Rio dos Índios 	4315552 	riodinhense 	3.616 	235,32 	15,4 	68.545
+Rio Grande 	4315602 	rio-grandino 	197.228 	2.709,52 	72,8 	6.385.316
+Rio Pardo 	4315701 	rio-pardense 	37.591 	2.050,65 	18,3 	659.222
+Riozinho 	4315750 	riozinhense 	4.330 	239,56 	18,1 	94.915
+Roca Sales 	4315800 	roca-salense 	10.284 	208,63 	49,3 	304.099
+Rodeio Bonito 	4315909 	rodeiense 	5.743 	83,17 	69,0 	104.449
+Rolador 	4315958 	roladorense 	2.546 	295,01 	8,6 	74.455
+Rolante 	4316006 	rolantense 	19.485 	295,64 	65,9 	384.815
+Ronda Alta 	4316105 	ronda-altense 	10.221 	419,34 	24,4 	214.338
+Rondinha 	4316204 	rondinhense 	5.518 	252,21 	21,9 	126.498
+Roque Gonzales 	4316303 	roque-gonzalense 	7.203 	348,73 	20,8 	104.766
+Rosário do Sul 	4316402 	rosariense 	39.707 	4.369,65 	9,1 	663.594
+Sagrada Família 	4316428 	sagradense 	2.595 	78,25 	33,2 	45.084
+Saldanha Marinho 	4316436 	saldanhense 	2.869 	221,61 	13,0 	111.712
+Salto do Jacuí 	4316451 	salto-jacuiense 	11.880 	507,38 	23,4 	225.206
+Salvador das Missões 	4316477 	salvadorense 	2.669 	94,04 	28,4 	77.416
+Salvador do Sul 	4316501 	salvadorense 	6.747 	98,56 	67,6 	225.516
+Sananduva 	4316600 	sananduvense 	15.373 	504,55 	30,5 	387.254
+Sant'Ana do Livramento 	4317103 	santanense 	82.464 	6.941,61 	11,9 	1.223.002
+Santa Bárbara do Sul 	4316709 	santa-barbarense 	8.829 	975,51 	9,1 	484.934
+Santa Cecília do Sul 	4316733 	ceciliense 	1.655 	199,47 	8,3 	56.588
+Santa Clara do Sul 	4316758 	santa-clarense 	5.697 	86,98 	65,8 	150.912
+Santa Cruz do Sul 	4316808 	santa-cruzense 	118.374 	733,41 	161,4 	5.105.333
+Santa Margarida do Sul 	4316972 	margaridense 	2.352 	955,30 	2,5 	123.603
+Santa Maria 	4316907 	santa-mariense 	261.031 	1.781,76 	146,0 	5.152.161
+Santa Maria do Herval 	4316956 	hervalense 	6.053 	139,70 	43,4 	155.790
+Santa Rosa 	4317202 	santa-rosense 	68.587 	489,80 	140,0 	1.963.674
+Santa Tereza 	4317251 	santa-teresense 	1.720 	73,98 	23,8 	30.095
+Santa Vitória do Palmar 	4317301 	vitoriense 	30.990 	5.243,58 	5,9 	606.519
+Santana da Boa Vista 	4317004 	santanense-da-boa-vista 	8.242 	1.420,62 	5,8 	110.833
+Santiago 	4317400 	santiaguense 	49.071 	2.413,13 	20,3 	799.894
+Santo Ângelo 	4317509 	santo-angelense ou angelopolitano 	76.275 	680,50 	112,1 	1.588.491
+Santo Antônio da Patrulha 	4317608 	patrulhense 	39.685 	1.049,81 	37,8 	770.015
+Santo Antônio das Missões 	4317707 	santo-antoniense 	11.210 	1.710,87 	6,6 	215.159
+Santo Antônio do Palma 	4317558 	palmense 	2.139 	126,09 	17,0 	59.936
+Santo Antônio do Planalto 	4317756 	santo-antoniense 	1.987 	203,44 	9,8 	83.019
+Santo Augusto 	4317806 	santo-augustense 	13.968 	468,10 	29,8 	381.253
+Santo Cristo 	4317905 	santo-cristense 	14.378 	366,89 	39,2 	347.939
+Santo Expedito do Sul 	4317954 	expeditense 	2.461 	125,59 	19,6 	51.171
+São Borja 	4318002 	são borjense 	61.671 	3.616,69 	17,1 	1.352.369
+São Domingos do Sul 	4318051 	são-dominguense 	2.926 	78,72 	37,1 	46.124
+São Francisco de Assis 	4318101 	assisense 	19.254 	2.508,45 	7,7 	308.597
+São Francisco de Paula 	4318200 	serrano 	20.537 	3.264,49 	6,3 	388.137
+São Gabriel 	4318309 	gabrielense 	60.425 	5.023,82 	12,0 	1.090.841
+São Jerônimo 	4318408 	jeronimense 	22.134 	936,38 	23,6 	379.847
+São João da Urtiga 	4318424 	urtiguense 	4.726 	171,18 	27,6 	94.165
+São João do Polêsine 	4318432 	polesinense 	2.635 	78,22 	30,9 	47.063
+São Jorge 	4318440 	são-jorgense 	2.774 	118,05 	23,5 	60.842
+São José das Missões 	4318457 	são-josezense 	2.720 	98,07 	27,7 	43.739
+São José do Herval 	4318465 	hervalense 	2.204 	103,09 	21,4 	38.144
+São José do Hortêncio 	4318481 	hortenciense 	4.094 	64,11 	63,9 	92.100
+São José do Inhacorá 	4318499 	inhacoraense 	2.200 	77,81 	28,3 	60.135
+São José do Norte 	4318507 	nortense 	25.503 	1.118,10 	22,8 	253.236
+São José do Ouro 	4318606 	ourense 	6.904 	334,77 	20,6 	205.958
+São José do Sul 	4318614 	são josense do sul 	2.082 	59,03 	35,3 	43.348
+São José dos Ausentes 	4318622 	ausentino 	3.290 	1.173,95 	2,8 	74.387
+São Leopoldo 	4318705 	leopoldense 	214.087 	102,74 	2.083,8 	5.046.475
+São Lourenço do Sul 	4318804 	lourenciano 	43.111 	2.036,13 	21,2 	726.467
+São Luiz Gonzaga 	4318903 	são-luizense 	34.556 	1.295,68 	26,7 	819.299
+São Marcos 	4319000 	são-marquense 	20.103 	256,25 	78,5 	464.149
+São Martinho 	4319109 	são-martinhense 	5.773 	171,66 	33,6 	160.837
+São Martinho da Serra 	4319125 	martinhense 	3.201 	669,55 	4,8 	145.023
+São Miguel das Missões 	4319158 	miguelino 	7.421 	1.229,62 	6,0 	345.552
+São Nicolau 	4319208 	são-nicolauense 	5.727 	485,35 	11,8 	89.456
+São Paulo das Missões 	4319307 	paulista-das-missões 	6.364 	223,89 	28,4 	106.610
+São Pedro da Serra 	4319356 	são-pedrense 	3.315 	35,39 	93,7 	53.370
+São Pedro das Missões 	4319364 	são pedrense 	1.886 	79,97 	23,6 	39.415
+São Pedro do Butiá 	4319372 	são-butiaiense 	2.873 	107,63 	26,7 	64.379
+São Pedro do Sul 	4319406 	são-pedrense 	16.368 	873,59 	18,7 	249.431
+São Sebastião do Caí 	4319505 	caiense 	21.932 	112,12 	196,8 	464.481
+São Sepé 	4319604 	sepense 	23.798 	2.202,65 	10,8 	516.015
+São Valentim 	4319703 	valentinense 	3.632 	154,19 	23,6 	68.789
+São Valentim do Sul 	4319711 	são-valentinense 	2.168 	91,90 	23,5 	40.431
+São Valério do Sul 	4319737 	são-valerense 	2.647 	107,97 	24,5 	46.524
+São Vendelino 	4319752 	são-vendelinense 	1.944 	32,42 	60,6 	65.257
+São Vicente do Sul 	4319802 	vicentino 	8.440 	1.175,23 	7,2 	166.271
+Sapiranga 	4319901 	sapiranguense 	74.985 	138,03 	542,1 	1.894.816
+Sapucaia do Sul 	4320008 	sapucaiense 	130.957 	58,31 	2.245,9 	2.321.409
+Sarandi 	4320107 	sarandiense 	21.285 	353,39 	60,2 	550.436
+Seberi 	4320206 	seberiense 	10.897 	301,42 	36,2 	241.290
+Sede Nova 	4320230 	sede-novense 	3.011 	119,30 	25,2 	77.148
+Segredo 	4320263 	segredense 	7.158 	245,81 	28,9 	104.576
+Selbach 	4320305 	selbaquense 	4.929 	177,64 	27,8 	153.765
+Senador Salgado Filho 	4320321 	salgadofilhense 	2.814 	147,21 	19,1 	65.772
+Sentinela do Sul 	4320354 	sentinelense 	5.198 	281,96 	18,4 	70.062
+Serafina Corrêa 	4320404 	serafinense 	14.253 	163,28 	87,3 	434.526
+Sério 	4320453 	seriense 	2.281 	100,36 	22,9 	34.359
+Sertão 	4320503 	sertanense 	6.294 	439,47 	14,3 	205.930
+Sertão Santana 	4320552 	sertanense 	5.850 	251,85 	23,2 	108.899
+Sete de Setembro 	4320578 	setembrense 	2.124 	129,99 	16,3 	49.465
+Severiano de Almeida 	4320602 	severianense 	3.842 	167,60 	22,9 	71.967
+Silveira Martins 	4320651 	sillveirense 	2.449 	119,29 	20,7 	37.340
+Sinimbu 	4320677 	sinimbuense 	10.068 	510,12 	19,7 	154.168
+Sobradinho 	4320701 	sobradinhense 	14.283 	128,08 	109,5 	277.023
+Soledade 	4320800 	soledadense 	30.044 	1.213,41 	24,8 	534.207
+Tabaí 	4320859 	tabaiense 	4.131 	94,75 	43,6 	64.115
+Tapejara 	4320909 	tapejarense 	19.250 	238,62 	80,6 	534.630
+Tapera 	4321006 	taperense 	10.448 	179,66 	58,2 	273.674
+Tapes 	4321105 	tapense 	16.629 	806,30 	20,6 	256.444
+Taquara 	4321204 	taquarense 	54.643 	457,88 	119,4 	921.195
+Taquari 	4321303 	taquariense 	26.092 	349,97 	74,6 	501.722
+Taquaruçu do Sul 	4321329 	taquaraçusense 	2.966 	76,85 	38,6 	72.651
+Tavares 	4321352 	tavarense 	5.351 	604,25 	8,9 	66.535
+Tenente Portela 	4321402 	portelense 	13.719 	337,96 	40,6 	245.838
+Terra de Areia 	4321436 	terrareense 	9.878 	141,77 	69,7 	124.438
+Teutônia 	4321451 	teutoniense 	27.272 	178,46 	152,7 	846.766
+Tio Hugo 	4321469 	tio-huguense 	2.724 	113,91 	23,9 	83.979
+Tiradentes do Sul 	4321477 	tiradentense 	6.461 	236,20 	27,6 	92.097
+Toropi 	4321493 	toropiense 	2.952 	202,98 	14,5 	51.468
+Torres 	4321501 	torrense 	34.656 	160,57 	215,8 	682.237
+Tramandaí 	4321600 	tramandaiense 	41.585 	144,41 	288,0 	671.452
+Travesseiro 	4321626 	travesseirense 	2.314 	81,12 	28,5 	53.066
+Três Arroios 	4321634 	três-arroiense 	2.855 	148,58 	19,2 	101.990
+Três Cachoeiras 	4321667 	três cachoeirense 	10.217 	251,06 	40,7 	152.081
+Três Coroas 	4321709 	três-coroense 	23.848 	185,54 	128,5 	676.619
+Três de Maio 	4321808 	três-maiense 	23.726 	422,20 	56,2 	600.293
+Três Forquilhas 	4321832 	forquilhense 	2.914 	217,26 	13,4 	41.034
+Três Palmeiras 	4321857 	três-palmeirense 	4.381 	180,60 	24,3 	91.817
+Três Passos 	4321907 	três-passense 	23.965 	268,40 	89,3 	488.566
+Trindade do Sul 	4321956 	trindadense 	5.787 	268,42 	21,6 	120.170
+Triunfo 	4322004 	triunfense 	25.793 	818,80 	31,5 	4.678.770
+Tucunduva 	4322103 	tucunduvense 	5.898 	180,81 	32,6 	141.152
+Tunas 	4322152 	tunense 	4.395 	218,07 	20,2 	61.231
+Tupanci do Sul 	4322186 	tupancisense 	1.573 	135,26 	11,6 	36.997
+Tupanciretã 	4322202 	tupanciretanense 	22.281 	2.251,04 	9,9 	931.334
+Tupandi 	4322251 	tupandiense 	3.924 	59,54 	65,9 	288.223
+Tuparendi 	4322301 	tuparendiense 	8.557 	307,68 	27,8 	191.374
+Turuçu 	4322327 	turuçuense 	3.522 	253,64 	13,9 	68.904
+Ubiretama 	4322343 	ubiretamense 	2.296 	126,69 	18,1 	43.061
+União da Serra 	4322350 	união-serrense 	1.487 	130,99 	11,4 	43.160
+Unistalda 	4322376 	unistaldense 	2.450 	602,39 	4,1 	43.787
+Uruguaiana 	4322400 	uruguaianense 	125.435 	5.703,59 	22,0 	1.900.353
+Vacaria 	4322509 	vacariense 	61.342 	2.124,58 	28,9 	1.492.095
+Vale do Sol 	4322533 	vale-solense 	11.077 	328,23 	33,8 	186.287
+Vale Real 	4322541 	vale-realense 	5.118 	45,09 	113,5 	80.269
+Vale Verde 	4322525 	valeverdense 	3.253 	329,73 	9,9 	61.963
+Vanini 	4322558 	vaninense 	1.984 	65,11 	30,6 	45.850
+Venâncio Aires 	4322608 	venâncio-airense 	65.946 	772,23 	85,3 	2.327.766
+Vera Cruz 	4322707 	vera-cruzense 	23.983 	309,62 	77,5 	519.055
+Veranópolis 	4322806 	veranense 	22.810 	289,43 	78,8 	750.885
+Vespasiano Correa 	4322855 	vespasianense 	1.974 	113,89 	17,3 	49.195
+Viadutos 	4322905 	viadutense 	5.311 	268,24 	19,8 	114.582
+Viamão 	4323002 	viamense 	239.384 	1.497,09 	159,9 	2.414.171
+Vicente Dutra 	4323101 	dutrense 	5.285 	193,06 	27,4 	76.207
+Victor Graeff 	4323200 	victorense 	3.036 	238,27 	12,7 	140.507
+Vila Flores 	4323309 	vila-florense 	3.207 	107,82 	29,7 	119.314
+Vila Lângaro 	4323358 	vila-langarense 	2.152 	152,17 	14,1 	83.777
+Vila Maria 	4323408 	vila-mariense 	4.221 	181,33 	23,3 	174.817
+Vila Nova do Sul 	4323457 	vila-novense 	4.221 	507,94 	8,3 	73.684
+Vista Alegre 	4323507 	vista-alegrense 	2.832 	77,46 	36,6 	50.664
+Vista Alegre do Prata 	4323606 	vista-alegrense 	1.569 	119,33 	13,2 	39.755
+Vista Gaúcha 	4323705 	vista-gauchense 	2.759 	89,80 	31,1 	52.083
+Vitória das Missões 	4323754 	vitoriano 	3.485 	259,61 	13,4 	62.570
+Westfália 	4323770 	westfaliano 	2.793 	63,67 	43,6 	94.171
+Xangri-lá 	4323804 	xangri-laense 	12.434 	60,69 	204,9 	289.622

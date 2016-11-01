@@ -1,0 +1,1 @@
+cat municipios3.csv | sed 's/Á/A/g' | sed 's/É/E/g' | sed 's/Í/I/g' | sed 's/Ó/O/g' | sed 's/Ú/U/g' | sed 's/Ã/A/g' | sed 's/Ẽ/E/g' | sed 's/Õ/O/g' | sed 's/Â/A/g' | sed 's/Ê/E/g' | sed 's/Ô/O/g' | sed 's/À/A/g' | sed 's/Ü/U/g' | sed 's/Ë/E/g' | sed 's/Ç/C/g' 
